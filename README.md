@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wishrohitv
 - 👀 I’m interested in AI and App development
-- 🌱 I’m currently learning Python, C++
+- 🌱 I’m currently learning Python, C++, Pytorch
 - 💞️ I’m looking to collaborate on App development
 - 📫 How to reach me then call me
 
